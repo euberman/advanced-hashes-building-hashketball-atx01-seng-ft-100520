@@ -119,7 +119,3 @@ def game_hash
     
     result
 end
-
-def 
-  
-end
