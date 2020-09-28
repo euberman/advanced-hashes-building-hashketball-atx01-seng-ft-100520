@@ -117,5 +117,5 @@ def game_hash
       }
     }
     
-    result
+    game_data
 end
